@@ -23,6 +23,13 @@
         
     }
     
+    &--less-margin {
+        
+        margin-bottom: 1.3rem;
+        margin: 0;
+        
+    }
+    
     &__icon {
         
         display: block;
