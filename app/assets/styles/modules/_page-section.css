@@ -21,7 +21,7 @@
     }
     
       &--no-b-padding-until-large {
-        
+         
      padding-bottom: 0;
         
         @mixin atLarge {
