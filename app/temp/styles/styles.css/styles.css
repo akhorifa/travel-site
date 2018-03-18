@@ -763,7 +763,7 @@ a {
             
             .page-section--testimonials.lazyloaded {
               
-                background: url('/assets/images/testimonials-bg.jpg') top center;
+                background: url('../../assets/images/testimonials-bg.jpg') top center;
                 background-size: cover;
          
             }
@@ -1256,13 +1256,13 @@ a {
 
 .icon {
 
-    background-image: url('/assets/images/sprites/sprite-e79e95cc.svg');  
+    background-image: url('../../assets/images/sprites/sprite-e79e95cc.svg');  
 
 }
 
 .no-svg .icon {
     
-    background-image: url('/assets/images/sprites/sprite-e79e95cc.png');   
+    background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');   
     
 }
 
